@@ -24,6 +24,7 @@ import ProductSection from "./Sections/ProductSection.jsx";
 import TeamSection from "./Sections/TeamSection.jsx";
 import WorkSection from "./Sections/WorkSection.jsx";
 
+
 class MainPage extends React.Component {
   render() {
     const { classes, ...rest } = this.props;
